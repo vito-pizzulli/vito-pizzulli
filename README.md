@@ -16,8 +16,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p>
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="left">
+  
+  ![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,css,express,git,github,html,java,js,jquery,laravel,materialui,mysql,nodejs,npm,ps,php,postgres,postman,powershell,react,sass,vite,vscode,vue)
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vito-pizzulli&show_icons=true&title_color=fb8c00&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="vito-pizzulli" /></p>
